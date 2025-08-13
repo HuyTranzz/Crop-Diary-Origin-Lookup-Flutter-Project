@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "921368196746",
+    "firebase_url": "https://nktt-f7264-default-rtdb.firebaseio.com",
+    "project_id": "nktt-f7264",
+    "storage_bucket": "nktt-f7264.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921368196746:android:b80f73cb0a02ab6fcf5f73",
+        "android_client_info": {
+          "package_name": "com.example.baicuoiki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiIk0TyVdmpu1IEiQroFjnN3pPVSJl6K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921368196746:android:d47a8e1d3cd015a0cf5f73",
+        "android_client_info": {
+          "package_name": "com.example.nhat_ky_trong_trot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiIk0TyVdmpu1IEiQroFjnN3pPVSJl6K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921368196746:android:43418024d2231af5cf5f73",
+        "android_client_info": {
+          "package_name": "com.example.truy_xuat_nguon_goc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiIk0TyVdmpu1IEiQroFjnN3pPVSJl6K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
